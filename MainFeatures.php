@@ -51,14 +51,16 @@
 <div class="container">
   <h1>Giới thiệu hệ thống</h1>
 
-
-  <div class="section">
-    <h2>1. Overview</h2>
+  </div>
+   <div class="section">
+    <h2>2. Main Features</h2>
     <p>
-      Hệ thống được xây dựng bằng ngôn ngữ PHP nhằm phục vụ mục đích quản lý và
-      vận hành dữ liệu một cách hiệu quả. Giao diện đơn giản, dễ sử dụng và
-      phù hợp cho các đồ án học tập hoặc ứng dụng web cơ bản.
+      Website cung cấp các chức năng cốt lõi như hiển thị dữ liệu, quản lý người dùng,
+      và hỗ trợ mở rộng thêm các nghiệp vụ khác trong tương lai. Mỗi chức năng
+      được thiết kế rõ ràng để dễ dàng bảo trì và phát triển.
     </p>
   </div>
+
 </body>
 </html>
+ 
