@@ -72,8 +72,8 @@ $appName = "My PHP App";
     <div class="section">
       <h2>2. Main Features</h2>
       <p>
-        Website cung cấp các chức năng cốt lõi như hiển thị dữ liệu, quản lý người dùng,
-        và hỗ trợ mở rộng thêm các nghiệp vụ khác trong tương lai. Mỗi chức năng
+        Website cung cấp các chức năng cốt lõi như hiển thị dữ liệu. quản <p>lý người dùng</p>,
+        và hỗ trợ mở rộng thêm các nghiệp vụ khác trong tương lai. Mỗi <p>chức năng</p>
         được thiết kế rõ ràng để dễ dàng bảo trì và phát triển.
       </p>
     </div>
