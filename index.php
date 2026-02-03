@@ -60,5 +60,14 @@
       phù hợp cho các đồ án học tập hoặc ứng dụng web cơ bản.
     </p>
   </div>
+  
+ <div class="section">
+    <h2>2. Main Features</h2>
+    <p>
+      Website cung cấp các chức năng cốt lõi như hiển thị dữ liệu, quản lý người dùng,
+      và hỗ trợ mở rộng thêm các nghiệp vụ khác trong tương lai. Mỗi chức năng
+      được thiết kế rõ ràng để dễ dàng bảo trì và phát triển.
+    </p>
+  </div>
 </body>
 </html>
