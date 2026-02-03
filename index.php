@@ -59,6 +59,15 @@
       vận hành dữ liệu một cách hiệu quả. Giao diện đơn giản, dễ sử dụng và
       phù hợp cho các đồ án học tập hoặc ứng dụng web cơ bản.
     </p>
+      <div class="section">
+        
+    <h2>3. Technologies Used</h2>
+    <p>
+      Hệ thống sử dụng PHP thuần kết hợp với HTML và CSS. Cách tiếp cận này giúp
+      người học nắm rõ luồng xử lý từ phía server đến giao diện người dùng
+      mà không phụ thuộc vào framework phức tạp.
+    </p>
+  </div>
   </div>
 </body>
 </html>
