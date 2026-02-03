@@ -62,8 +62,8 @@ $appName = "My PHP App";
       <div class="section">
         <h2>3. Technologies Used</h2>
         <p>
-        Hệ thống sử dụng PHP thuần kết hợp với HTML và CSS. cách <p>tiếp cận</p> này giúp
-        người học nắm rõ luồng xử lý từ phía server. đến <p>giao diện</p> người dùng
+        Hệ thống sử dụng PHP thuần kết hợp với HTML và CSS. Cách <p>tiếp cận</p> này giúp
+        người học nắm rõ luồng xử lý từ phía server. Đến <p>giao diện</p> người dùng
         mà không phụ thuộc vào framework phức tạp.
         </p>
       </div>
